@@ -1,0 +1,12 @@
+{
+  "name": "elevator-button",
+  "version": "1.0.0",
+  "main": "button.js",
+  "author": "Yuki Minami <info@minami.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.20.1",
+    "node-dash-button": "^0.6.1",
+    "node-fetch": "^2.0.0"
+  }
+}
