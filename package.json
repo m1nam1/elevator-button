@@ -1,8 +1,10 @@
 {
   "name": "elevator-button",
+  "description": "A button to call the elevator of Daiwa Ubiquitous Computing Research Building",
   "version": "1.0.0",
   "main": "button.js",
   "author": "Yuki Minami <info@minami.xyz>",
+  "repository": "https://github.com/m1nam1/elevator-button",
   "license": "MIT",
   "dependencies": {
     "moment": "^2.20.1",
